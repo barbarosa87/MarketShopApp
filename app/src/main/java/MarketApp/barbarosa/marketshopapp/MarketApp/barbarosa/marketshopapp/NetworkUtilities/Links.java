@@ -4,8 +4,8 @@ package MarketApp.barbarosa.marketshopapp.MarketApp.barbarosa.marketshopapp.Netw
  * Created by ilias.karditsis on 7/8/2014.
  */
 public class Links {
-    private String serverUrl='';
-    private String loginJSON='';
+    private String serverUrl='37.6.110.14';
+    private String loginJSON='login.php';
 
 
     public String getServerUrl() {
