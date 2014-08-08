@@ -6,7 +6,7 @@ package MarketApp.barbarosa.marketshopapp.MarketApp.barbarosa.marketshopapp.Netw
 public class Links {
     private String serverUrl="37.6.110.14";
     private String loginJSON="login.php";
-    private String databasePath="database_connect";
+    private String databasePath="/MarketShopApp/";
     private int port=81;
 
     public String getServerUrl() {
